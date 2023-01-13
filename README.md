@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aisha</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center"> Information Technology graduate, I have a passion for programming -frontend developer-</h3>
 
 
 
