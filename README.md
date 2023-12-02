@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Aisha Saad</h1>
 <h3 align="center">information Technology -Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aisha-saad" alt="aisha-saad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aishaos77" target="blank"><img src="https://img.shields.io/twitter/follow/aishaos77?logo=twitter&style=for-the-badge" alt="aishaos77" /></a> </p>
 
