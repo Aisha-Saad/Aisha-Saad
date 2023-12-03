@@ -4,7 +4,6 @@
 <h3 align="center">information Technology -Web developer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/aishaos77" target="blank"><img src="https://img.shields.io/twitter/follow/aishaos77?logo=twitter&style=for-the-badge" alt="aishaos77" /></a> </p>
 
 - 🔭 I’m currently working **as a Freelancer**
 
